@@ -10,6 +10,8 @@ g++ split.cpp test_split.cpp -o test_split
 */
 
 #include "split.h"
+#include <iostream>
+#include <cstddef>  
 
 int main(int argc, char* argv[])
 {
